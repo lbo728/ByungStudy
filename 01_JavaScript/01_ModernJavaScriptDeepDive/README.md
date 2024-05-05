@@ -28,10 +28,10 @@
 1. 프로그래밍
 2. 자바스크립트란?
 3. 자바스크립트 개발 환경과 실행 방법
-4. [변수](https://github.com/lbo728/ModernJavaScript/blob/505f5470765f6487af2b489fec9e40b526a22f8c/04_%EB%B3%80%EC%88%98.md)
+4. [변수](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/04_%EB%B3%80%EC%88%98.md)
 5. 표현식과 문
-6. [데이터 타입](https://github.com/lbo728/ModernJavaScript/blob/505f5470765f6487af2b489fec9e40b526a22f8c/06_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%80%EC%9E%85.md)
-7. [연산자](https://github.com/lbo728/ModernJavaScript/blob/505f5470765f6487af2b489fec9e40b526a22f8c/07_%EC%97%B0%EC%82%B0%EC%9E%90.md)
+6. [데이터 타입](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/06_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%80%EC%9E%85.md)
+7. [연산자](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/07_%EC%97%B0%EC%82%B0%EC%9E%90.md)
 8. 제어문
 9. 타입 변환과 단축 평가
 10. 객체 리터럴
