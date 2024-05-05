@@ -10,16 +10,6 @@
 
 1.  [모던 자바스크립트 딥다이브](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/README.md)
 
-<details>
-<summary>1. 모던 자바스크립트 딥다이브</summary>
-<div markdown="1">
-
-4. [변수](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/04_%EB%B3%80%EC%88%98.md)
-5. [데이터 타입](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/06_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%80%EC%9E%85.md)
-6. [연산자](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/07_%EC%97%B0%EC%82%B0%EC%9E%90.md)
-7. </div>
-   </details>
-
 #### 블록체인
 
 1. [블록체인 무엇인가?](https://github.com/lbo728/ModernJavaScript/blob/main/02_BlockChain/01_%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/README.md)
