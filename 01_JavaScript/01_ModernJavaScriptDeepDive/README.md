@@ -32,7 +32,7 @@
 5. 표현식과 문
 6. [데이터 타입](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/06_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%83%80%EC%9E%85.md)
 7. [연산자](https://github.com/lbo728/ModernJavaScript/blob/main/01_JavaScript/01_ModernJavaScriptDeepDive/07_%EC%97%B0%EC%82%B0%EC%9E%90.md)
-8. 제어문
+8. [제어문](https://github.com/lbo728/ByungStudy/blob/44bde18459c740d74f41e31253712972d48d422c/01_JavaScript/01_ModernJavaScriptDeepDive/08_%EC%A0%9C%EC%96%B4%EB%AC%B8.md)
 9. 타입 변환과 단축 평가
 10. 객체 리터럴
 11. 원시 값과 객체의 비교
