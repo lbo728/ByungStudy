@@ -1,4 +1,4 @@
-# OSI 7 계층과 TCP/IP 4 계층
+# 06 OSI 7 계층과 TCP/IP 4 계층
 
 - `ISO`(_International Organization for Standardization_): **국제표준화기구**
   - ISO의 정관 2조에 ISO의 설립 목적을 다음과 같이 명시함
